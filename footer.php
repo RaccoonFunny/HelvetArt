@@ -15,6 +15,17 @@
 				<a href="#"><li>Past Shows</li></a>
 			</ul>
 		</div>
+		<div class="nav-footer-right">
+			<div class="social">
+				<img src="images\Facebook.png" alt="Facebook">
+				<img src="images\Instagram.png" alt="Instagram">
+				<img src="images\Linkedin.png" alt="Linkedin">
+				<img src="images\Twetter.png" alt="Twetter">
+			</div>
+			<div class="copyrigh">
+				<p>© 2020 HelvetArt. All rights reserved.</p>
+			</div>
+		</div>
 	</footer>
 	<?php wp_footer(); ?>
 </body>
