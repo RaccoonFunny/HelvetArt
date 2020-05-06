@@ -8,7 +8,7 @@
     <?php wp_head(); ?>
   </head>
   <body>
-    <?php body_class(); ?>
+    <!-- <?php body_class(); ?> -->
     <div class="nav">
       <nav class="main-navigation">
         <? wp_nav_menu(array('menu' => 'top-menu', 'menu_class' => 'top-menu')); ?>

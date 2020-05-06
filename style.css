@@ -9,6 +9,8 @@ body {
   font-size: 20px;
 }
 
+
+/* Header */
 .logo{
   margin: 0 auto;
   width: 265px;
@@ -56,4 +58,32 @@ body {
 nav{
   margin: 0 auto;
   max-width: 1220px
+}
+
+/* footer */
+
+.nav-footer-colum{
+  display: flex;
+  flex-direction: row;
+}
+
+ul{
+  font-family: 'Roboto', sans-serif;
+}
+
+h3{
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 30px;
+  margin-left: 25px;
+}
+
+li{
+  list-style-type: none;
+  margin-left: -15px;
+}
+.nav-footer-colum a {
+	color: #000;
+	text-decoration: none;
 }
