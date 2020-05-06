@@ -16,4 +16,12 @@ if (function_exists('add_theme_support')) {
 	add_theme_support('menus');
 }
 
+function prefix_conditional_body_class( $classes ) {
+    if( is_page_template('mytemplate.php') )
+        $classes[] = 'mytemplate';
+
+    return $classes;
+}
+add_filter( 'body_class', 'prefix_conditional_body_class' );
+
 ?>
