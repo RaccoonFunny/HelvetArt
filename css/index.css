@@ -92,3 +92,14 @@ body {
     padding-left: 100px;
     padding-right: 81px;
 }
+
+.take-part-block{
+    margin-top: 63px;
+    text-align: center;
+}
+.block-part {
+    width: 235px;
+    height: 235px;
+    margin: 0 auto;
+    background: #C4C4C4;
+}
