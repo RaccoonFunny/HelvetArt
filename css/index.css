@@ -2,16 +2,21 @@ body {
     width: 1440px;
     height: 2102px;
     background: #FFFFFF;
+    margin: 0 auto;
+    text-align: center;
 }
 
 .header {
+    text-align: center;
+    margin: 0 auto;
+    display: flex;
     width: 1440px;
-    height: 407px;
+    height: 100px;
     margin: 0 auto;
 }
 
 .title {
-    display: flex;
+   padding-left: 34px ;
     font-family: Roboto;
     font-style: normal;
     font-weight: 500;
@@ -22,4 +27,19 @@ body {
 .logo {
     width: 264.19px;
     height: 208px;
+}
+.month-text{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 44px;
+    line-height: 52px;
+    text-align: center;
+    color: #000000;
+}
+.monrh-block{
+    width: 507px;
+    height: 504px;
+    margin: 0 auto;
+    background: #C4C4C4
 }
