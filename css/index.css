@@ -43,3 +43,52 @@ body {
     margin: 0 auto;
     background: #C4C4C4
 }
+.resent-show {
+    display: flex;
+    margin-top: 112px;
+    padding-left: 140px;
+
+}
+.text-header {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 48px;
+    line-height: 56px;
+    color: #000000;
+}
+
+.content-month {
+    width: 175px;
+    height: 174px;
+    background: #C4C4C4;
+    margin-left: 76px;
+}
+.month {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 28px;
+    color: #000000;
+    padding-top: 178px;
+    padding-left: 0;
+    position: absolute;
+}
+
+.author {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 28px;
+    color: #000000;
+    padding-left: 0;
+    position: absolute;
+    padding-top: 209px;
+}
+
+.monrh-blocks {
+    padding-left: 100px;
+    padding-right: 81px;
+}
