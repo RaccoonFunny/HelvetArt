@@ -17,6 +17,8 @@ body {
 }
 .wrapper {
     text-align: initial;
+    width: 1146px;
+    margin: 0 auto;
 }
 
 .title {

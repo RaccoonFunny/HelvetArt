@@ -103,3 +103,7 @@ body {
     margin: 0 auto;
     background: #C4C4C4;
 }
+
+.next-block {
+    margin-top: 180px;
+}
