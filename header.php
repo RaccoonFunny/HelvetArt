@@ -9,8 +9,10 @@
   </head>
   <body>
     <?php body_class(); ?>
-    <nav class="main-navigation">
-	     <? wp_nav_menu(array('menu' => 'top-menu', 'menu_class' => 'top-menu')); ?>
-    </nav>
-    <img src="img/hel" alt="">
+    <div class="nav">
+      <nav class="main-navigation">
+        <? wp_nav_menu(array('menu' => 'top-menu', 'menu_class' => 'top-menu')); ?>
+      </nav>
+    </div>
+    <div class="logo"><a href="/"><img src="<?php bloginfo('template_url'); ?>/images/logo.png" alt="Whitesquare logo"></a></div>
 	   <div class="wrapper">
