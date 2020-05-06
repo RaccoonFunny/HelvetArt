@@ -15,4 +15,5 @@
       </nav>
     </div>
     <div class="logo"><a href="/"><img src="<?php bloginfo('template_url'); ?>/images/logo.png" alt="Whitesquare logo"></a></div>
-	   <div class="wrapper">
+    <hr class="hr-header">
+     <div class="wrapper">

@@ -13,6 +13,13 @@ body {
   margin: 0 auto;
   width: 265px;
 }
+
+.hr-header{
+  width: 80%;
+  margin: 0 auto;
+  height: 3px;
+  background-color: black;
+}
 /* Навигационное меню */
 .main-navigation {
 
