@@ -1,0 +1,51 @@
+body {
+    width: 1440px;
+    height: 2102px;
+    background: #FFFFFF;
+    margin: 0 auto;
+    text-align: center;
+}
+
+
+.header {
+    text-align: center;
+    margin: 0 auto;
+    display: flex;
+    width: 1440px;
+    height: 100px;
+    margin: 0 auto;
+}
+.wrapper {
+    text-align: initial;
+}
+
+.title {
+    padding-left: 34px ;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
+    color: #000000;
+}
+.logo {
+    width: 264.19px;
+    height: 208px;
+}
+
+.about {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 44px;
+    line-height: 52px;
+    color: #000000;
+}
+.text-about{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 28px;
+    color: #000000;
+}
