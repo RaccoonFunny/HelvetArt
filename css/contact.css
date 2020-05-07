@@ -1,0 +1,100 @@
+body {
+    width: 1440px;
+    height: 2102px;
+    background: #FFFFFF;
+    margin: 0 auto;
+    text-align: center;
+}
+
+
+.header {
+    text-align: center;
+    margin: 0 auto;
+    display: flex;
+    width: 1440px;
+    height: 100px;
+    margin: 0 auto;
+}
+.wrapper {
+    text-align: initial;
+    width: 1146px;
+    margin: 0 auto;
+}
+
+.title {
+    padding-left: 34px ;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
+    color: #000000;
+}
+.logo {
+    width: 264.19px;
+    height: 208px;
+}
+.contact-us {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 44px;
+    line-height: 52px;
+    text-align: center;
+    color: #000000;
+    text-align: inherit;
+}
+
+.text-contact {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    color: #2C2C2E;
+}
+
+.first-second-block {
+    background: #FFFFFF;
+    box-shadow: inset 0px 0px 8px rgba(0, 0, 0, 0.25);
+    border-radius: 5px;
+    width: 400px;
+    height: 53px;
+}
+.first-strock{
+    display: flex;
+}
+.second-name {
+    margin-left: 100px;
+}
+.email-block{
+    width: 901px;
+    height: 53px;
+    background: #FFFFFF;
+    box-shadow: inset 0px 0px 8px rgba(0, 0, 0, 0.25);
+    border-radius: 5px;
+}
+.message-block{
+    width: 900px;
+    height: 200px;
+    background: #FFFFFF;
+    box-shadow: inset 0px 0px 8px rgba(0, 0, 0, 0.25);
+    border-radius: 5px;
+}
+
+.button {
+    margin-top: 20px;
+    width: 336px;
+    height: 53px;
+    background: #2C2C2E;
+    border-radius: 5px;
+}
+
+.submit {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    color: #FFFFFF
+}

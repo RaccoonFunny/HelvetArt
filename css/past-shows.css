@@ -1,0 +1,47 @@
+body {
+    width: 1440px;
+    height: 2102px;
+    background: #FFFFFF;
+    margin: 0 auto;
+    text-align: center;
+}
+
+
+.header {
+    text-align: center;
+    margin: 0 auto;
+    display: flex;
+    width: 1440px;
+    height: 100px;
+    margin: 0 auto;
+}
+.wrapper {
+    text-align: initial;
+    width: 1146px;
+    margin: 0 auto;
+}
+
+.title {
+    padding-left: 34px ;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
+    color: #000000;
+}
+.logo {
+    width: 264.19px;
+    height: 208px;
+}
+
+.past-shows {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 44px;
+    line-height: 52px;
+    text-align: center;
+    color: #000000;
+    text-align: inherit;
+}
