@@ -24,4 +24,6 @@ function prefix_conditional_body_class( $classes ) {
 }
 add_filter( 'body_class', 'prefix_conditional_body_class' );
 
+add_theme_support( 'post-thumbnails' ); // для всех типов постов
+
 ?>
