@@ -21,7 +21,7 @@
     </div>
     <?php endwhile; ?>
 </div>
-<hr style="padding-left: 0px; margin-top: 74px; position: absolute" width=" 70%">
+<hr style="padding-left: 0px; margin-top: 74px; margin-left: -420px; position: absolute" width=" 70%">
 <div class="resent-show">
 <p class="text-header"> Recent shows</p>
 <!--  -->
@@ -47,7 +47,7 @@ while($catquery->have_posts() ) : $catquery->the_post();
 <div class="next-block">
 <hr width="70%" style=" margin-right: inherit;">
 <div class="take-part-block">
-    <a href="#"><H2 class="text-header">Click here for Next Show entry</H2></a> 
+    <a href="#"><H2 class="text-header">Click here for Next Show entry</H2></a>
 </div>
 </div>
 
