@@ -19,9 +19,9 @@
 			</div>
 			<div class="nav-footer-right">
 			<div class="social">
-				<a href="#"><img src="<?bloginfo('template_url'); ?>/images/Facebook.png" alt="Facebook"></a>
-				<a href="#"><img src="<?bloginfo('template_url'); ?>/images/Instagram.png" alt="Instagram"></a>
-				<a href="#"><img src="<?bloginfo('template_url'); ?>/images/Linkedin.png" alt="Linkedin"></a>
+				<a href="https://www.facebook.com/helvetart.ch/"><img src="<?bloginfo('template_url'); ?>/images/Facebook.png" alt="Facebook"></a>
+				<a href="https://www.instagram.com/helvetart/"><img src="<?bloginfo('template_url'); ?>/images/Instagram.png" alt="Instagram"></a>
+				<a href="http://linkedin.com/company/HelvetArt"><img src="<?bloginfo('template_url'); ?>/images/Linkedin.png" alt="Linkedin"></a>
 				<a href="#"><img src="<?bloginfo('template_url'); ?>/images/Twetter.png" alt="Twetter"></a>
 			</div>
 			<div class="copyrigh">
