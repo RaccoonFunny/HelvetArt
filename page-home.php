@@ -47,7 +47,7 @@ while($catquery->have_posts() ) : $catquery->the_post();
 <div class="next-block">
 <hr width="70%" style=" margin-right: inherit;">
 <div class="take-part-block">
-    <a href="#"><H2 class="text-header">Click here for Next Show entry</H2></a>
+    <a href="http://helvetart.ch/next-show-call/#first-name"><H2 class="text-header">Click here for Next Show entry</H2></a>
 </div>
 </div>
 
