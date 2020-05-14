@@ -8,7 +8,7 @@
 	<?php endwhile; endif; ?>
 </section>
 
-<form class="entryForm" action="" method="post">
+<form class="entryForm" action="mail-show-call.php" enctype="multipart/form-data"  method="post">
 	<div class="form">
 		<div class="row">
 			<div class="input">
